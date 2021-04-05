@@ -1,5 +1,4 @@
-# merging
-example
-filler
+this
+is
+some
 text
-?
